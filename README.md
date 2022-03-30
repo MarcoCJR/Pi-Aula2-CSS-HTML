@@ -1,2 +1,4 @@
-# Pi-Aula2-CSS-HTML
-Conjunto de exercícios da Aula 2 de PI sobre CSS e HTML
+# Pi-Exercicio1-HTML&CSS-Marco
+Atividade da aula 01 de PI, HTML e CSS
+
+Marco Antonio Campos Junior  - 03221006

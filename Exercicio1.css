@@ -1,0 +1,20 @@
+/* Marco Antonio Campos Junior - 03221006 */
+
+/* A) */
+.div_a{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border: 2px green solid;
+    margin-top: 100px;
+}
+
+/* B) */
+.div_b{
+background-color: black;
+height: 50vh;
+width: 50%;
+border: 10px red dashed;
+margin-top: 100px;
+margin-left: 100px;
+}
